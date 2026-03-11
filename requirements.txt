@@ -1,0 +1,6 @@
+# Requirements for Deep Learning JSCC
+
+pytorch
+numpy
+matplotlib
+scipy
