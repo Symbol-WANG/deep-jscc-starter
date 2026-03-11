@@ -1,0 +1,11 @@
+# JSCC Training Configuration
+
+# Specify any required parameters for the JSCC training here.
+learning_rate: 0.001
+batch_size: 32
+epochs: 100
+model: "JSCCModel"
+
+# Additional configurations
+input_shape: [3, 32, 32]
+output_shape: [10]
